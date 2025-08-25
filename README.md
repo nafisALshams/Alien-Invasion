@@ -1,1 +1,1 @@
-A basic 2d game inspired by the book of Eric Matthes to simply learn pygame along with other game design concepts like event checking, keeping stats, collision detection and object oriented programming.
+A basic 2D game inspired by the book of Eric Matthes to simply learn pygame along with other game design concepts like event checking, keeping stats, collision detection and object-oriented programming.
